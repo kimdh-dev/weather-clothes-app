@@ -28,7 +28,9 @@ body {
 }
 
 #wrap {
+    background: #e2e2e2;
     margin: 0 auto;
+    padding-bottom: 4rem;
 }
 
 .head {
